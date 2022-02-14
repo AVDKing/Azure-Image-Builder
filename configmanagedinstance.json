@@ -805,6 +805,7 @@
   
     ],
     "AssignableScopes": [
-      "/subscriptions/<subscriptionID>/resourceGroups/<rgName>"
+      "/subscriptions/<subscriptionID>/resourceGroups/<rgName>",
+        "/subscriptions/<subscriptionID>/resourceGroups/<rgName1>"
     ]
   }
